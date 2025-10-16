@@ -1,0 +1,30 @@
+{
+  "name": "cursor_gpt5-project-ad8ab23e-b757-4f4c-8ba6-e49eb93ac949",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "nanoid": "^5.1.6",
+    "next": "15.5.5",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "seedrandom": "^3.0.5",
+    "y-webrtc": "^10.3.0",
+    "yjs": "^13.6.27"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/seedrandom": "^3.0.8",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.5",
+    "typescript": "5.9.3"
+  }
+}
